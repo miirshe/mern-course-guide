@@ -1,6 +1,6 @@
 # 🎓 MERN Stack Professional Training – Jamhuriya University
 
-**Instructor**: [Your Name]  
+**Instructor**: Abdikafi Isse Isak - Miirshe  
 **Institution**: Jamhuriya University  
 **Course Duration**: 4 Weeks (1 session/week – 4 hours each)  
 **Total Students**: More ~70
@@ -110,27 +110,30 @@ Gain real-world experience in full-stack web development using the **MERN stack*
 
 ## 📂 Suggested Project Structure
 
-### `/backend`
-├── server.js
-├── models/
-│ └── Student.js
-├── routes/
-│ └── students.js
-├── config/
-│ └── db.js
-├── .env
-├── package.json
+### 🗂️ `/backend`
+```bash
+/backend
+├── server.js               # Entry point of the backend server
+├── models/                 # Mongoose data models
+│   └── Student.js
+├── routes/                 # Express route handlers
+│   └── students.js
+├── config/                 # DB connection and config files
+│   └── db.js
+├── .env                    # Environment variables (e.g., DB URI)
+├── package.json            # Backend dependencies and scripts
 
 ### `/frontend`
 
-├── src/
-│ ├── App.jsx
-│ ├── components/
-│ │ ├── StudentList.jsx
-│ │ ├── AddStudent.jsx
-├── tailwind.config.js
-├── postcss.config.js
-├── package.json
+/frontend
+├── src/                    # Source files
+│   ├── App.jsx             # Main React component
+│   ├── components/         # Reusable components
+│   │   ├── StudentList.jsx
+│   │   ├── AddStudent.jsx
+├── tailwind.config.js      # Tailwind CSS configuration
+├── postcss.config.js       # PostCSS for Tailwind processing
+├── package.json            # Frontend dependencies and scripts
 
 ---
 
