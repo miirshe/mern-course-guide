@@ -182,7 +182,7 @@ Choose from the ideas below or propose your own:
 
 ### 📄 Cheat Sheets
 
-- [JavaScript Cheat Sheet](https://htmlcheatsheet.com/js/)
+- [JavaScript Cheat Sheet](https://cheatsheets.zip/javascript)
 - [MongoDB Cheat Sheet](https://cheatsheets.zip/mongodb)
 - [Express.js Cheat Sheet](https://cheatsheets.zip/express)
 - [React Cheat Sheet](https://cheatsheets.zip/react)
