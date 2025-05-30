@@ -137,6 +137,8 @@ Gain real-world experience in full-stack web development using the **MERN stack*
 
 ---
 
+```
+
 ## 🗂 Project Management Tools
 
 | Tool         | Purpose                          |
